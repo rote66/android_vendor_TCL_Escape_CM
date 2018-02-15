@@ -148,36 +148,12 @@ PRODUCT_COPY_FILES += \
     vendor/TCL/Escape_CM/proprietary/lib64/libbessound_hd_mtk.so:system/lib64/libbessound_hd_mtk.so \
     vendor/TCL/Escape_CM/proprietary/lib/libbessurround_mtk.so:system/lib/libbessurround_mtk.so \
     vendor/TCL/Escape_CM/proprietary/lib/libaudio-resampler.so:system/lib/libaudio-resampler.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudio-resampler.so:system/lib64/libaudio-resampler.so \
     vendor/TCL/Escape_CM/proprietary/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiocompensationfilter.so:system/lib64/libaudiocompensationfilter.so \
     vendor/TCL/Escape_CM/proprietary/lib/libaudiocomponentengine.so:system/lib/libaudiocomponentengine.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiocomponentengine.so:system/lib64/libaudiocomponentengine.so \
     vendor/TCL/Escape_CM/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiocustparam.so:system/lib64/libaudiocustparam.so \
     vendor/TCL/Escape_CM/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiodcrflt.so:system/lib64/libaudiodcrflt.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudioeffect_jni.so:system/lib/libaudioeffect_jni.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudioeffect_jni.so:system/lib64/libaudioeffect_jni.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudioflinger.so:system/lib/libaudioflinger.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudioflinger.so:system/lib64/libaudioflinger.so \
     vendor/TCL/Escape_CM/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudiopolicyenginedefault.so:system/lib/libaudiopolicyenginedefault.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiopolicyenginedefault.so:system/lib64/libaudiopolicyenginedefault.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudiopolicymanager.so:system/lib/libaudiopolicymanager.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiopolicymanager.so:system/lib64/libaudiopolicymanager.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiopolicymanagerdefault.so:system/lib64/libaudiopolicymanagerdefault.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudiopolicyservice.so:system/lib/libaudiopolicyservice.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiopolicyservice.so:system/lib64/libaudiopolicyservice.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudioresampler.so:system/lib/libaudioresampler.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudioresampler.so:system/lib64/libaudioresampler.so \
     vendor/TCL/Escape_CM/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiosetting.so:system/lib64/libaudiosetting.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudiospdif.so:system/lib/libaudiospdif.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudiospdif.so:system/lib64/libaudiospdif.so \
-    vendor/TCL/Escape_CM/proprietary/lib/libaudioutils.so:system/lib/libaudioutils.so \
-    vendor/TCL/Escape_CM/proprietary/lib64/libaudioutils.so:system/lib64/libaudioutils.so \
     vendor/TCL/Escape_CM/proprietary/lib/libwebrtc_audio_preprocessing.so:system/lib/libwebrtc_audio_preprocessing.so \
     vendor/TCL/Escape_CM/proprietary/lib/hw/audio.primary.mt6735.so:system/lib/hw/audio.primary.mt6735.so \
     vendor/TCL/Escape_CM/proprietary/lib64/hw/audio.primary.mt6735.so:system/lib64/hw/audio.primary.mt6735.so \
